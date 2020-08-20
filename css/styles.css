@@ -566,7 +566,7 @@
 
 
 .section-header-block {
-    font-size: 40px;
+    font-size: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -623,8 +623,12 @@
     color: #E5B454;
     font-size: 60px;
     font-family: 'DIN Consered';
-    padding: 20px 70px;
+    padding: 9px 100px;
     border-radius: 88px;
+}
+
+.drugs-list-desc {
+    text-align: justify;
 }
 
 
