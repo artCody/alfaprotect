@@ -188,6 +188,10 @@
     font-weight: normal;
     font-size: 30px;
     text-align: center;
+    min-height: 100px;
+    display: flex;
+    line-height: 26px;
+    align-items: center;
 }
 
 
