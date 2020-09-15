@@ -906,8 +906,9 @@
 
 .footer-top {
     font-weight: bold;
-font-size: 37px;
-margin-bottom: 22px;
+    font-size: 37px;
+    margin-bottom: 22px;
+    text-transform: uppercase;
 }
 
 .footer-bottom a{
